@@ -24,4 +24,6 @@ https://www.youtube.com/watch?v=cFmoECBPJ_Q"
 https://freesound.org/people/timtube/sounds/169826/
 "546032__grcekh__mystery-piano-loop.wav" by grcekh, licensed under Creative Commons 0 (CC0)
 https://freesound.org/people/grcekh/sounds/546032/
+"The Solution of the Zodiac Killer's 340-Character Cipher", David Oranchak, Sam Blake, Jarl Van Eycke, https://arxiv.org/abs/2403.17350 
+
 
